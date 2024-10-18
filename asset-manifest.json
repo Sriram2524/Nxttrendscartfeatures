@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Nxttrendscartfeatures/static/css/main.d8ae3432.chunk.css",
+    "main.js": "/Nxttrendscartfeatures/static/js/main.901a483b.chunk.js",
+    "main.js.map": "/Nxttrendscartfeatures/static/js/main.901a483b.chunk.js.map",
+    "runtime-main.js": "/Nxttrendscartfeatures/static/js/runtime-main.c69080bd.js",
+    "runtime-main.js.map": "/Nxttrendscartfeatures/static/js/runtime-main.c69080bd.js.map",
+    "static/js/2.f560840b.chunk.js": "/Nxttrendscartfeatures/static/js/2.f560840b.chunk.js",
+    "static/js/2.f560840b.chunk.js.map": "/Nxttrendscartfeatures/static/js/2.f560840b.chunk.js.map",
+    "index.html": "/Nxttrendscartfeatures/index.html",
+    "static/css/main.d8ae3432.chunk.css.map": "/Nxttrendscartfeatures/static/css/main.d8ae3432.chunk.css.map",
+    "static/js/2.f560840b.chunk.js.LICENSE.txt": "/Nxttrendscartfeatures/static/js/2.f560840b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c69080bd.js",
+    "static/js/2.f560840b.chunk.js",
+    "static/css/main.d8ae3432.chunk.css",
+    "static/js/main.901a483b.chunk.js"
+  ]
+}
