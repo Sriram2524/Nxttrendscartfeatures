@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.cart-summary-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-self: flex-end;
+}
+.heading {
+  font-size: 22px;
+  color: #616e7c;
+  font-family: roboto;
+  line-height: 1.5;
+  font-weight: bold;
+}
+.total {
+  color: #171f46;
+  font-size: 30px;
+  font-weight: bold;
+}
+.items {
+  font-size: 14px;
+  color: #616e7c;
+  font-family: roboto;
+  line-height: 10px;
+  font-weight: bold;
+}
+.check-out-button {
+  background-color: #0b69ff;
+  padding: 10px;
+  color: white;
+  cursor: pointer;
+  border: none;
+  border-radius: 2px;
+}
